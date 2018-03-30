@@ -1,0 +1,19 @@
+body > footer {
+  font-size: 14px;
+  background-color: #e5eaf1;
+  text-align: center;
+  color: #2f62f2;
+  padding: 64px 0 27px;
+}
+footer > nav > a {
+  font-weight: bold;
+  color: #3a3a3a;
+  margin: 10px;
+}
+body > footer > nav > a.purchase {
+  color: #2f62f2;
+}
+footer > div {
+  color: #708be9;
+  padding: 29px 0;
+}
